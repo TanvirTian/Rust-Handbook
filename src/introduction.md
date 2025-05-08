@@ -1,4 +1,4 @@
-# Chapter 1
+# Introduction
 Welcome to the **Rust Handbook**! This guide is a record of my personal journey as I learn the Rust programming language. Throughout this book, I will document my experiences, challenges, and progress as I dive deeper into Rust, while providing examples, explanations, and lessons learned along the way.
 
 ## Why Rust?
