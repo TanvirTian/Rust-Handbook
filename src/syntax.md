@@ -11,13 +11,13 @@ fn main() {
 ```
 🔎 Line-by-line breakdown:
 
-.`let` creates a new variable.
+- `let` creates a new variable.
 
-.`x` is the variable name.
+- `x` is the variable name.
 
-.`5` is the integer value assigned. 
+- `5` is the integer value assigned. 
 
-.`println!` is a macro that prints text to the console.
+- `println!` is a macro that prints text to the console.
 
 💡 If you're not sure what a macro is, don’t worry! For now, just remember that `println!` is used to display text in the console.
 
