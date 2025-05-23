@@ -1,5 +1,6 @@
 # Constants
 in Rust, constants are values that are bound to a name and are not allowed to change. They are evaluated at compile time and must have a type annotation.
+Constants can be declared in any scope, including the global scope, which makes them useful for values that many parts of the code need to know about.
 
 ## Declaring Constants
 
